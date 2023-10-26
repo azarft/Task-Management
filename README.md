@@ -1,48 +1,38 @@
-# Your Project Name
+# Task Management Application
 
-A short description of your project.
+A simple JavaFX-based task management application for creating, editing, and organizing tasks with deadlines and priorities.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Overview](#overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Overview
 
-Provide a brief introduction to your project. What is it about? Why did you create it? What problem does it solve? You can also mention any notable features.
+This JavaFX application provides an easy-to-use interface for managing your tasks. You can create new tasks, edit existing ones, mark tasks as complete or incomplete, and delete completed tasks. The tasks are categorized as Homework, Meeting, or Shopping and can have associated deadlines and priorities.
 
 ## Features
 
-List the key features of your project. For example:
-
-- Feature 1: What it does
-- Feature 2: What it does
-- Feature 3: What it does
+- Create new tasks with names, descriptions, deadlines, and priorities.
+- Mark tasks as completed or incomplete.
+- Edit existing tasks.
+- Delete completed tasks.
+- Sort tasks in the list by date and priority.
+- User-friendly interface for managing tasks.
 
 ## Prerequisites
 
-What do users need to have installed or set up before they can use your project? For example:
+- Java Development Kit (JDK) 8 or higher.
+- JavaFX libraries (usually included in recent JDK distributions).
 
-- Java Development Kit (JDK) 8 or higher
-- JavaFX libraries
+## Getting Started
 
-## Installation
-
-Provide installation instructions. For example:
-
-1. Clone the repository: `git clone https://github.com/yourusername/your-project.git`
-2. Install dependencies: `npm install`
-
-## Usage
-
-Explain how users can use your project. Provide code examples or usage scenarios. For example:
-
-To run the application, use the following command:
-
-```bash
-java -jar your-project.jar
+1. **Clone the Repository:**
+   ```shell
+   git clone https://github.com/your-username/task-management.git
